@@ -7,7 +7,7 @@ Developer.Speaker.Gamer.Teacher
 Ghost is a JavaScript Developer, Speaker, and Teacher with a passion for teaching developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and Developer Advocacy. In his spare time, he runs a FiveM Role Play Server , And plays GTAV with his friends and family . He loves his cat and can solve a Rubik's cube in under a minute.
 
 * 🌍  I'm based in Highland, IN
-* 🚀  I'm currently working on [Tamed Nation Role Play FiveM Server](http://cfx.re/join/23xvlz)
+* 🚀  I'm currently working on [MAMBA  Role Play FiveM Server][(http://cfx.re/join/23xvlz)](https://discord.gg/VKwkwswy5J)
 * 🧠  I'm learning Everything Qbcore
 * ⚡  Internet Nerd🤓
 
